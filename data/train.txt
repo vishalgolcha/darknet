@@ -28,7 +28,6 @@ data/img/apples-in-a-grocery-store.JPG
 data/img/fruit-apples-trademark-variety.jpg
 data/img/2_20309_e.jpg
 data/img/adhqylrqnn-1465121618.png
-data/img/txts
 data/img/Apples.jpg
 data/img/index2.jpeg
 data/img/23924687127_4fdd508dd5_b_aug1.jpg
@@ -58,7 +57,6 @@ data/img/PixabayFujiApples_aug1.JPG
 data/img/Whole-Foods-780x520.jpg
 data/img/shop2_aug1.jpg
 data/img/The-Best-Place-to-Go-Apple-Picking-in-Every-State-9-760x506.jpg
-data/img/Prep_txt.ipynb
 data/img/Pacific-Rose-apples-on-display-in-local-Washington-fruit-section.jpg
 data/img/apples-for-sale-at-grocery-store-panoramic-images-canvas-print_aug1.jpg
 data/img/Apples-in-cold-storage-DSC_9302-web_aug1.jpg
