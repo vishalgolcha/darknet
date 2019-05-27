@@ -81,7 +81,6 @@ data/img/yuvraj-traders-goregaon-west-mumbai-general-stores-44dftbf.jpg
 data/img/adelaide-hills-apples.jpg
 data/img/apples.jpg
 data/img/yuvraj-traders-goregaon-west-mumbai-general-stores-44dftbf_aug1.jpg
-data/img/applesdianamillerGettyImages-145068104-577e87013df78cb62c96e3a0.jpg
 data/img/index_aug1.jpeg
 data/img/58cac8091d00001d107cecb1.jpeg
 data/img/depositphotos_221056758-stock-photo-fruit-shops-market-all-kinds.jpg
