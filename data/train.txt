@@ -23,7 +23,6 @@ data/img/applesdianamillerGettyImages-145068104-577e87013df78cb62c96e3a0_aug1.jp
 data/img/fruit-apples-trademark-variety_aug1.jpg
 data/img/retailhome_aug1.jpg
 data/img/PixabayFujiApples.JPG
-data/img/prep_img.ipynb
 data/img/apples-in-a-grocery-store.JPG
 data/img/fruit-apples-trademark-variety.jpg
 data/img/2_20309_e.jpg
@@ -82,4 +81,3 @@ data/img/yuvraj-traders-goregaon-west-mumbai-general-stores-44dftbf_aug1.jpg
 data/img/index_aug1.jpeg
 data/img/58cac8091d00001d107cecb1.jpeg
 data/img/depositphotos_221056758-stock-photo-fruit-shops-market-all-kinds.jpg
-
